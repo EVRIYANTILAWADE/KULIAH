@@ -23,4 +23,5 @@ void main() {
   }
   print("Skor Anda: $skor");
   print("Grade Anda: $grade");
+
 }
