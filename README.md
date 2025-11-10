@@ -1,0 +1,1 @@
+ berikut ini adalah link AI: https://chat.qwen.ai/s/ba1878b3-a178-4ab4-b61d-4a27be4c7200?fev=0.0.242
